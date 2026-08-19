@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "android-root-dhcp-manager"
+version = "1.0.0"
+description = "Production-quality Android Root DHCP / IP Manager TUI/CLI for Termux on rooted Android devices."
+readme = "README.md"
+authors = [
+    { name = "Developer" }
+]
+license = { text = "MIT" }
+requires-python = ">=3.8"
+dependencies = []
+
+[project.scripts]
+dhcp-manager = "dhcp_manager.cli.main:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
