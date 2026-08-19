@@ -1,5 +1,6 @@
 """
 Unit tests for System Doctor diagnostics report.
+Author: ishantia
 """
 
 import unittest

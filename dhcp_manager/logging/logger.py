@@ -1,6 +1,7 @@
 """
 Structured Logging Subsystem for Android Root DHCP Manager.
 Supports subsystem tagging, file rotation/logging, and console output.
+Author: ishantia
 """
 
 import enum

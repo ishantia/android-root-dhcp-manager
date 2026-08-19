@@ -1,6 +1,7 @@
 """
 Neighbor and ARP table scanner module.
 Parses active connected clients from 'ip neigh' and '/proc/net/arp'.
+Author: ishantia
 """
 
 import time

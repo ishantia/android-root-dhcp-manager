@@ -41,7 +41,7 @@ Execute the following commands in your Termux terminal on the rooted Android dev
 pkg update && pkg install -y python git iproute2
 
 # 2. Clone the repository
-git clone https://github.com/your-user/android-root-dhcp-manager.git
+git clone https://github.com/ishantia/android-root-dhcp-manager.git
 cd android-root-dhcp-manager
 
 # 3. Install the package

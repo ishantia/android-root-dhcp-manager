@@ -1,5 +1,6 @@
 """
 Network state monitor for continuous background tracking of tethering and clients.
+Author: ishantia
 """
 
 import threading

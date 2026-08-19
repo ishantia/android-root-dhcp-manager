@@ -1,5 +1,6 @@
 """
 Core Data Models for Android Root DHCP Manager.
+Author: ishantia
 """
 
 from dataclasses import dataclass, field, asdict

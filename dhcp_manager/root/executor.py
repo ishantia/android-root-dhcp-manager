@@ -1,6 +1,7 @@
 """
 Root Executor Module.
 Provides secure privileged execution via 'su', command escaping, timeout control, and dry-run mode.
+Author: ishantia
 """
 
 from dataclasses import dataclass

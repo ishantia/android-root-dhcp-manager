@@ -1,5 +1,6 @@
 """
 Application configuration management.
+Author: ishantia
 """
 
 from dataclasses import dataclass, asdict

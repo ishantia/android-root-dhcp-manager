@@ -1,5 +1,6 @@
 """
 Unit tests for Root Executor, dry-run mode, escaping, and timeouts.
+Author: ishantia
 """
 
 import sys

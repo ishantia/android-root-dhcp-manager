@@ -1,6 +1,7 @@
 """
 Terminal User Interface (TUI) Dashboard for Android Root DHCP Manager.
 Provides interactive keyboard navigation, status monitoring, management, forms, and diagnostic screens.
+Author: ishantia
 """
 
 import curses

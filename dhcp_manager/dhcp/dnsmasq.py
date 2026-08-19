@@ -1,6 +1,7 @@
 """
 Dnsmasq Network Backend Implementation.
 Handles dnsmasq process detection, lease file parsing, static host injection, and reload signals.
+Author: ishantia
 """
 
 import os

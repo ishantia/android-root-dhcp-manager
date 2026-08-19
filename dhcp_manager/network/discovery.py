@@ -1,6 +1,7 @@
 """
 Dynamic Network Discovery Engine for Android Tethering.
 Discovers active tethering interface, gateway, subnet, and upstream route dynamically.
+Author: ishantia
 """
 
 import ipaddress

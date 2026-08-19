@@ -1,6 +1,7 @@
 """
 Android Tethering APEX / Netd Network Backend Implementation.
 Handles modern Android tethering stacks (APEX tethering, enableLegacyDhcpServer=false, BPF tethering).
+Author: ishantia
 """
 
 from typing import List, Tuple

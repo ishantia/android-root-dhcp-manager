@@ -1,5 +1,6 @@
 """
 Unit tests for SQLite Database persistence, schema migrations, and CRUD operations.
+Author: ishantia
 """
 
 import os

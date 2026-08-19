@@ -1,6 +1,7 @@
 """
 System Doctor and Self-Check Diagnostic Engine.
 Checks Termux environment, root status, binaries, interfaces, tethering, DHCP backend, and config directory.
+Author: ishantia
 """
 
 from dataclasses import dataclass, field

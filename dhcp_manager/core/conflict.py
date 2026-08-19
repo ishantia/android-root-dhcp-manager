@@ -1,6 +1,7 @@
 """
 IP & MAC Conflict Detection Engine.
 Inspects stored assignments, active neighbor tables, DHCP leases, and subnet configuration.
+Author: ishantia
 """
 
 from typing import List, Optional
